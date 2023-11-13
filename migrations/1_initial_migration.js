@@ -1,5 +1,5 @@
-const Migrations = artifacts.require("Migrations");
+const EtherScripter = artifacts.require("EtherScripter");
 
 module.exports = function (deployer) {
-  deployer.deploy(Migrations);
+  deployer.deploy(EtherScripter);
 };
