@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align="center">Effortless Smart Contract Interaction for your NodeJS Application</h4>
+<h4 align="center">Effortless Smart Contract Interaction for your NodeJS Application Template</h4>
 
 <p align="center">
   <a href="https://github.com/storybookjs/storybook/blob/main/LICENSE">
