@@ -1,0 +1,33 @@
+{
+  "name": "etherscripter",
+  "version": "1.0.0",
+  "description": "Effortless smart contract interaction for your NodeJS app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandaruChamod/EtherScripter.git"
+  },
+  "keywords": [
+    "Ethereum",
+    "Truffle",
+    "Blockchain",
+    "Backend",
+    "NodeJS",
+    "API",
+    "Service"
+  ],
+  "author": "Sandaru Kalapuge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SandaruChamod/EtherScripter/issues"
+  },
+  "homepage": "https://github.com/SandaruChamod/EtherScripter#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
