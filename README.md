@@ -17,7 +17,7 @@
   <a href="#"><img alt="prs" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"></a>
  <a href="#">
     <img alt="Github Actions Build Status" src="https://img.shields.io/github/actions/workflow/status/prettier/prettier/lint.yml?label=Lint&style=flat-square"></a>
-    <a href="#badge">
+    <a href="#">
     <img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square"></a>
 </p>
 
