@@ -11,11 +11,11 @@
 <h4 align="center">Effortless Smart Contract Interaction for your NodeJS Template</h4>
 
 <p align="center">
-  <a href="https://github.com/storybookjs/storybook/blob/main/LICENSE">
+  <a href="#">
     <img src="https://img.shields.io/github/license/storybookjs/storybook.svg" alt="License" />
   </a>
-  <a href="https://github.com/teambit/bit/blob/master/CONTRIBUTING.md"><img alt="prs" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"></a>
- <a href="https://github.com/prettier/prettier/actions?query=workflow%3ALint+branch%3Amain">
+  <a href="#"><img alt="prs" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"></a>
+ <a href="#">
     <img alt="Github Actions Build Status" src="https://img.shields.io/github/actions/workflow/status/prettier/prettier/lint.yml?label=Lint&style=flat-square"></a>
     <a href="#badge">
     <img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square"></a>
