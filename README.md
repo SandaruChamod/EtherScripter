@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/m9P1sB8/icosahedron-1.png" alt="icosahedron-1" border="0"></a>
+  <a href="https://imgbb.com/"><img src="https://drive.google.com/uc?export=view&id=1nivdjhUQ2_ndAzZ7WNj9ve-Oq4OouPsC" alt="icosahedron-1" border="0"></a>
   <br>
   EtherScripter
   <br>
