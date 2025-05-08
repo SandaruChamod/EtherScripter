@@ -2,10 +2,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://imgbb.com/"><img src="https://drive.google.com/uc?export=view&id=1nivdjhUQ2_ndAzZ7WNj9ve-Oq4OouPsC" alt="icosahedron-1" border="0"></a>
-  <br>
-  EtherScripter
-  <br>
+  <a href="https://imgbb.com/"><img src="https://drive.google.com/uc?export=view&id=1nivdjhUQ2_ndAzZ7WNj9ve-Oq4OouPsC" width="320" alt="icosahedron-1" border="0"></a>
 </h1>
 
 <h4 align="center">Effortless Smart Contract Interaction for your NodeJS Template</h4>
